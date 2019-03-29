@@ -1,0 +1,11 @@
+C:\Users\jabir.saidi\source\repos\Ballers\Ballers\bin\Debug\netcoreapp2.2\Ballers.deps.json
+C:\Users\jabir.saidi\source\repos\Ballers\Ballers\bin\Debug\netcoreapp2.2\Ballers.runtimeconfig.json
+C:\Users\jabir.saidi\source\repos\Ballers\Ballers\bin\Debug\netcoreapp2.2\Ballers.runtimeconfig.dev.json
+C:\Users\jabir.saidi\source\repos\Ballers\Ballers\bin\Debug\netcoreapp2.2\Ballers.dll
+C:\Users\jabir.saidi\source\repos\Ballers\Ballers\bin\Debug\netcoreapp2.2\Ballers.pdb
+C:\Users\jabir.saidi\source\repos\Ballers\Ballers\obj\Debug\netcoreapp2.2\Ballers.csprojAssemblyReference.cache
+C:\Users\jabir.saidi\source\repos\Ballers\Ballers\obj\Debug\netcoreapp2.2\Ballers.csproj.CoreCompileInputs.cache
+C:\Users\jabir.saidi\source\repos\Ballers\Ballers\obj\Debug\netcoreapp2.2\Ballers.AssemblyInfoInputs.cache
+C:\Users\jabir.saidi\source\repos\Ballers\Ballers\obj\Debug\netcoreapp2.2\Ballers.AssemblyInfo.cs
+C:\Users\jabir.saidi\source\repos\Ballers\Ballers\obj\Debug\netcoreapp2.2\Ballers.dll
+C:\Users\jabir.saidi\source\repos\Ballers\Ballers\obj\Debug\netcoreapp2.2\Ballers.pdb
