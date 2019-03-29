@@ -40,12 +40,7 @@ namespace Ballers.Game
             CustomColor.CustomConsoleColor(ConsoleColor.Red);
             Console.WriteLine($"\n{team1.Name.ToUpper()} VS {team2.Name.ToUpper()}");
             CustomColor.CustomConsoleColor(ConsoleColor.Gray);
-            Wait(1000);
-        }
-
-        private void Wait(int ms)
-        {
-            Thread.Sleep(ms);
+            Hold.Wait(1000);
         }
     }
 }
